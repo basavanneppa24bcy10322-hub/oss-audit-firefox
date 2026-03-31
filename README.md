@@ -1,4 +1,4 @@
-# 🐍 Python — Open Source Audit Project
+#  Python — Open Source Audit Project
 
 > A capstone project exploring the internals and ecosystem of **Python**, one of the world's most beloved open source languages — through a suite of Linux shell scripts.
 
@@ -139,4 +139,4 @@ This project was created for academic purposes as part of a capstone assignment.
 
 ---
 
-<p align="center">Made with ❤️ and <strong>Bash</strong> — in the spirit of open source</p>
+
